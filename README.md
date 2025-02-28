@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-chavan-97ml) 
+[Portfolio](https://vedantsanjaychavan.de/)
 
 My ChatBot, who will answers questions related to me: Chat[:robot:](https://huggingface.co/spaces/vedantchavan097/AI-chatbot)
 
