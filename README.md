@@ -10,7 +10,7 @@
 
 My ChatBot, who will answers questions related to me: [ChatBot](https://huggingface.co/spaces/vedantchavan097/AI-chatbot)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
