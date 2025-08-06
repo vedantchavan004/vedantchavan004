@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on: Developing custom AI models and AI pipelines.<br>🤝 I’m looking to collaborate on: Projects involving computer vision, MLOps pipelines, or real-world AI applications.<br>🧑‍🤝‍🧑 I’m looking for help with: Advancing my expertise in cloud-based AI deployments and exploring generative AI for automation.<br>🌱 I’m currently learning: Advanced Machine Learning, Azure and improving my German language skills.<br>💬 Ask me about: My experiences in deploying ML models with MLOps.
+- I am currently working on: Developing custom AI models and AI pipelines.<br>- I am looking to collaborate on: Projects involving computer vision, MLOps pipelines, or real-world AI applications.<br>- I am looking for help with: Advancing my expertise in cloud-based AI deployments and exploring generative AI for automation.<br>- I am currently learning: Advanced Machine Learning, Azure and improving my German language skills.<br>-Ask me about: My experiences in deploying ML models with MLOps.
 
 
 ## 🌐 Socials:
